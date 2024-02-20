@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:auto;
+	align-items:center;
+}
+#eg1{
+	object-fit:cover;
+}
+#eg2{
+	background-color:red;
+	padding:22;
+	color:white;
+	border-radius:20px;
+}
